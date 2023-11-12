@@ -5,9 +5,10 @@ christina k. boyt
 <p align="center">
   <a href="https://ckboyt.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-7E57C5?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANpJREFUeNqkkoENgkAMRe8IA7CBjMAG6gTKBDICTiBOgE5gnAA3ECeADYwTiBPg/8m/5EI0RmjyKO21/Q2cMR+s7/sEnEAOYvPLULQGjZqu4Cn4vvjWxOIKRIor5SKqamDm6kOnRG+tTRXncFRIkevgO+SW8FRmSezUGqek+A7K4XqIC61ehDqsNdkovoCX18ChO5BQHRwCPDZKOGPjzf/CXBE8MJzrnlkfmJEWaELr5WowdwFUeEalGX+LNmxHfxy36h6UXs0RZIMmDl6B7aQLMP3K/XvJ3wIMAJHMAWYMqhiJAAAAAElFTkSuQmCC&logoColor=white" alt="Portfolio Badge" /></a>
   <a href="https://www.linkedin.com/in/ckboyt/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
+  <a href="https://codepen.io/CKBoyt" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen Badge" /></a>
   <a href="https://dribbble.com/CKBoyt" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble Badge" /></a>
   <a href="https://mastodon.social/@ckboyt" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge" /></a>
-  <a href="https://twitter.com/CKBoyt" target="_blank" rel="noreferrer"><img src="https://shields.io/badge/Sinking%20Ship-000000?logo=x&logoColor=white&style=for-the-badge" alt="X, formerly Twitter Badge" /></a>
+  <a href="https://twitter.com/CKBoyt" target="_blank" rel="noreferrer"><img src="https://shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" alt="X Badge" /></a>
 </p>
 
 <img align="left" src="https://raw.githubusercontent.com/CKBoytGT/CKBoytGT.github.io/main/public/crystall-ball-static.svg" alt="Glowing purple and green crystal ball with a code symbol inside" height="300px">
