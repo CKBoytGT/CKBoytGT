@@ -7,7 +7,7 @@ christina k. boyt
   <a href="https://www.linkedin.com/in/ckboyt/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
   <a href="https://codepen.io/CKBoyt" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen Badge" /></a>
   <a href="https://dribbble.com/CKBoyt" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble Badge" /></a>
-  <a href="https://mastodon.social/@ckboyt" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge" /></a>
+  <a href="https://bsky.app/profile/ckboyt.bsky.social" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" alt="Bluesky Badge" /></a>
   <a href="https://twitter.com/CKBoyt" target="_blank" rel="noreferrer"><img src="https://shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" alt="X Badge" /></a>
 </p>
 
